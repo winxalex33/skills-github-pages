@@ -60,3 +60,66 @@ AI NPC that can see and act on their basic need and traits 2D in Unity based on 
 
 IT consultant @ National Bank of Republic Macedonia
 ISIDORA software achitecture and conlustancy and ehancment of Angular,Vue, ASP.NET MVC Core and Store Procedure
+
+# **CNC Application Developer** | _Mikrosam_
+
+- Developed a CNC-based keyboard utilizing Microchip PIC controllers.
+- Created CNC software for laser engraving control, featuring a user interface, image filtering, and integration with Galil motion controllers.
+- Designed prototype software for image recognition and the operation of a 3DOF robotic hand for part manipulation.  
+  [www.microsam.com](http://www.microsam.com)
+
+---
+
+# **Software Developer** | _Megasoft_
+
+- Developed a website for a government agency promoting agricultural development using ASP and Ajax technologies.
+- Implemented interactive multilingual Flash-based maps with XML integration for local administration units.
+- Created a framework to expedite the development of financial software solutions.
+- Developed an application to manage user roles and privileges across various software modules.  
+  [www.megasoftic.com.mk](http://www.megasoftic.com.mk)
+
+---
+
+# **IT Specialist for Internal Software** | _T-COM_
+
+- Spearheaded web development and statistical analysis projects.  
+  [www.telekom.mk](http://www.telekom.mk)
+
+---
+
+# **Developer, Consultant, Team Lead, Project Manager** | _Upwork (formerly oDesk)_
+
+- Achieved Top 25 Web Developer recognition (August 2009) and Top 25 Software Developer (March 2010).
+- Completed 8,485 hours and 143 jobs with an impressive client feedback score of over 4.5/5 on 138 projects, maintaining a 94% success rate.
+- Led the development of various projects, including websites, widgets, games, GIS applications, Flight Radar systems, Flight Crew Schedulers, mobile applications, and more.  
+  [www.upwork.com](http://www.upwork.com)
+
+---
+
+# **Personal Projects**:
+
+- **Input Mapper** (2013): Developed a system to bind controller inputs (single, double, long presses) to states in Unity, enabling controller profiles and multiplayer support across platforms (Windows, OSX, Android, Web).
+- **Sequencer**: Designed a drag-and-drop interface to create sequences for video, audio, and logic, featuring timeline scrubbing, Unity event handling, and reusable sequence assets.
+- **Logic Forge**: Created a functional programming framework to streamline development, focusing on visualizing and automating logic while maintaining full control. Integrated a strategy pattern for reusable components.
+
+---
+
+# **Tech Lead & Software Architect** | _ITGMA (Modirum Platforms)_
+
+- Enhanced Spring Boot architecture with custom SOAP-to-JSON converters, interceptors, and JSON serializers.
+- Developed custom repository extensions for Spring Boot and Hibernate.
+- Architected the CAS telecom system, overseeing team education, implementation, and production deployment.
+- Implemented a JSON query framework and custom Java query framework based on Specification extensions.
+- Optimized JBPM custom components to accelerate development with enhanced logging, error handling, and audit control.
+
+---
+
+# **Personal Project**:
+
+- **AI NPC System**: Developed an AI system in Unity where NPCs operate based on basic needs, traits, and dynamic behavior within a custom MVC framework, featuring full event-based interactions and visual customization.
+
+---
+
+# **IT Consultant** | _National Bank of the Republic of Macedonia_
+
+- Provided architectural consultancy and enhancements for ISIDORA software based on following Angular, Vue.js, ASP.NET MVC Core, and stored procedures.
