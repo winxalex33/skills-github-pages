@@ -218,17 +218,18 @@
               enhanced logging. Invent error handling similar to try/catch. Modify audit control to handle only custom parameters decreasing DB footprint.
             </li>
             <li>
-              Enhanced Spring Boot architecture with custom SOAP-to-JSON
-              converter, interceptors, projection proxies(decreasing Hibernate calls) and JSON serializers.
+              Create SOAP headers interceptor, interceptor that decide format of SOAP response based on exception type and other.
+              Enhanced Spring Boot architecture with custom SOAP-to-JSON converter.
+              Extended Spring Repository to support multi column selection.
+              Extended Specification to support joins.
+              Extend Column Meta attributes injecting methods with Lombok.
+              Tuple to JSON converters thru custom proxy and custom annotation defining the join optimizing and reducing call to DB compared to Hibernate.
             </li>
-            <li>
-              Developed custom repository extensions for Spring Boot and
-              Hibernate supporting multi column select.
-            </li>
+            
             <li>
               <a href="https://youtu.be/1cCUFZlxRxw"
-                >Implemented a JSON query framework</a> and <a href="https://github.com/winxalex/JavaSpringBootSpecificationProxiesAdvanced/blob/master/Demo.java">custom Java query
-                framework based on Specification extensions.</a
+                >Implemented a JSON query framework (Regular Expression, JSONPatch, Evaluator Shunning BackPropagation)</a> and <a href="https://github.com/winxalex/JavaSpringBootSpecificationProxiesAdvanced/blob/master/Demo.java">custom Java query
+                framework similar to QueryDSL.</a
               >
             </li>
            
